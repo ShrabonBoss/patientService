@@ -1,5 +1,6 @@
 package com.pms.patientService.mapper;
 
+import com.pms.patientService.dto.PatientRequestDTO;
 import com.pms.patientService.model.Patient;
 
 import java.time.LocalDate;
